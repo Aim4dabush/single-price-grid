@@ -1,0 +1,44 @@
+.card{
+    height: 500px;
+    width: 750px;
+    font-family: 'Cizel', serif;
+    border-radius: 2%;
+}
+
+.card-upper{
+    height: 200px;
+    padding-left: 50px;
+}
+
+.card-lower{
+    height: 300px;
+    padding-left: 50px;
+}
+
+.cyan{
+    background-color: #2ab2af;
+}
+
+.light-cyan{
+    background-color: #68DBDA;
+}
+
+#text-cyan{
+    color: #2ab2af;
+}
+
+#text-gray{
+    color: #98A6BD;
+}
+
+#text-white{
+    color: white;
+}
+
+#text-yellow{
+    color: #C0DF34;
+}
+
+.yellow{
+    background-color: #C0DF34;
+}
